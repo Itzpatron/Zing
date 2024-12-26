@@ -62,7 +62,7 @@ router.get('/', async (req, res) => {
 put the above ID in the sessID variable when deploying .
 Use this Session ID for all bots by PATRON.
 ╔═════◇
-║       『••• STAR KING•••』
+║       『•••PATRON•••』
 ║ *Channel:* _https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q_
 ║ *Main GC:* _https://chat.whatsapp.com/LFtURSKepenEp9ENPk9uJ1_
 ║ *Github:* _https://github.com/Itzpatron_
